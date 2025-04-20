@@ -9,6 +9,7 @@
 - [Funcionalidades Principais](#-funcionalidades-principais)
 - [Laboratórios Passo a Passo](#-laboratórios-passo-a-passo)
 - [Recursos Úteis](#-recursos-úteis)
+- [Estrutura do Repositório](#-estrutura-do-repositório)
 
 ---
 
@@ -63,6 +64,15 @@
 | **Documentação do Speech Studio** | [🔗 Acessar](https://speech.microsoft.com) |
 | **Guia do Language Studio** | [🔗 Acessar](https://learn.microsoft.com/pt-bp/azure/language-studio) |
 | **Azure Bot Service**       | [🔗 Criar um Bot](https://azure.microsoft.com/pt-bp/services/bot-services/) |
+ 
+---
+
+## 📂 Estrutura do Repositório
+Azure-Speech-Language-Lab/
+├── labs/ # Guias de laboratórios
+├── docs/ # Glossário e melhores práticas
+├── images/ # Capturas de tela e diagramas
+└── README.md # Documentação principal
 
 ---
 
